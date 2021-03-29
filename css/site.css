@@ -28,7 +28,7 @@ img {
       margin-right: auto;
   }
   .b:hover {
-    background-color: Gray;
+    background-color: Black;
     color: white;
   }
   div.c {
@@ -40,6 +40,6 @@ img {
     color: White;
     font-size: large;
     margin:120px auto;
-    height:150px;
-    width: 200px;
+    height:225px;
+    width: 15%;
   }
