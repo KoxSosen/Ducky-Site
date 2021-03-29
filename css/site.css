@@ -1,5 +1,6 @@
 body {
     background-color:#021027;
+
 }
   div.a {
     	text-align: center;
@@ -10,6 +11,20 @@ body {
     	text-align: center;
       font-family: Arial;
       color: White;
+      background-color: #021027;
+      color: black;
+      border: 2px solid #4CAF50;
+  }
+  div.c {
+    background-color: #021027;
+    text-align: center;
+    font-family: Arial;
+    border: 7px solid white;
+    margin: 20px;
+    color: White;
+    margin:120px auto;
+    height:150px;
+    width: 200px;
   }
 img {
   display: block;
