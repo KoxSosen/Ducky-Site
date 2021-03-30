@@ -1,3 +1,11 @@
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
+div.c {
+ width: 100px;
+}
+
 body {
     background-color:#021027;
 }
@@ -7,10 +15,10 @@ img {
   margin-right: auto;
   width: 15%;
 }
-  .container {
+/*  .container {
     display: flex;
     justify-content: center;
-  }
+  } */
  span.color {
    color: White;
  }
@@ -29,7 +37,8 @@ img {
       transition-duration: 0.4s;
       margin-left: auto;
       margin-right: auto;
-      margin: 50px 850px;
+      width: 250px;
+      /* margin: 50px 150px; */
   }
   .b:hover {
     background-color: Black;
@@ -43,6 +52,9 @@ img {
     margin: 20px;
     color: White;
     font-size: large;
-    margin:80px 800px;
-    height:225px;
+  /*  margin:80px 800px;*/
+    /* height:225px; */
+    margin:120px auto;
+    height:200px;
+    width: 250px;
   }
