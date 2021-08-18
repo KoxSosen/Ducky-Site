@@ -45,7 +45,25 @@ img {
     background-color: Black;
     color: white;
   }
-  div.c {
+    div.c {
+      text-align: center;
+      font-family: Arial;
+      color: White;
+      background-color: #021027;
+      color: black;
+      border: 2px solid White;
+      transition-duration: 0.4s;
+      margin: 20px auto;
+      height: 80px;
+      width: 175px;
+      margin-top: 20px;
+      /* margin: 50px 150px; */
+  }
+  .c:hover {
+    background-color: Black;
+    color: white;
+  }
+  div.d {
     background-color: #021027;
     text-align: center;
     font-family: Arial;
@@ -55,7 +73,7 @@ img {
     font-size: large;
   /*  margin:80px 800px;*/
     /* height:225px; */
-    margin:40px auto;
-    height:200px;
+    margin: 40px auto;
+    height: 200px;
     width: 250px;
   }
